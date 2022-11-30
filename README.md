@@ -1,2 +1,2 @@
 # android6
-![srcreenshot](screenshot.png)
+![srcreenshot](Screenshot.png)
